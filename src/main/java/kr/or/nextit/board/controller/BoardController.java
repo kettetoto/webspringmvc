@@ -24,6 +24,8 @@ import kr.or.nextit.common.file.service.FileItemService;
 import kr.or.nextit.common.util.PagingUtil;
 import kr.or.nextit.member.model.Member;
 
+
+//주석추가
 @Controller
 //중복되는 부분 requestMapping으로 빼줄 수 있음 
 @RequestMapping("/board")
